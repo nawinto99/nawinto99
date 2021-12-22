@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Thurimerla</h1>
-<h3 align="center">Data Engineer (Full-Stack). Python, and JavaScript enthusiast. SQL expert, eager to contribute to open source.</h3>
+<h3 align="center">Senior Data Engineer (Full-Stack). Python, and JavaScript enthusiast. SQL expert, eager to contribute to open source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawinto99&label=Profile%20views&color=0e75b6&style=flat" alt="nawinto99" /> </p>
 
