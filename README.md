@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naveen Thurimerla</h1>
-<h3 align="center">Senior Data Engineer (Full-Stack). Python, and JavaScript enthusiast. SQL expert, eager to contribute to open source.</h3>
+<h3 align="center">As a Senior Data Engineer (Full-Stack) with a passion for Python and JavaScript, I bring a wealth of experience in developing and deploying data applications, visualizations, and dashboards. I have a strong understanding of both front-end and back-end technologies, allowing me to create dynamic and user-friendly interfaces that can seamlessly integrate with data storage and processing systems.
+
+My expertise in SQL makes me a valuable asset to any team working with large datasets. I am adept at writing complex queries to extract data from databases and designing and implementing scalable database architectures. I have a deep understanding of how to work with relational databases, and I am committed to ensuring data quality, reliability, and availability.
+
+As an open source enthusiast, I am passionate about contributing to free and open software projects. I understand the value of working collaboratively with others to develop innovative solutions that benefit the entire community. I have already contributed to several open source projects and am excited about the prospect of continuing to do so in the future.
+
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawinto99&label=Profile%20views&color=0e75b6&style=flat" alt="nawinto99" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
